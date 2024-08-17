@@ -50,23 +50,3 @@ header h2 {
 .details ul {
     list-style-type: none;
     padding: 0;
-}
-
-.details ul li {
-    background-color: #e9ecef;
-    margin-bottom: 10px;
-    padding: 10px;
-    border-radius: 5px;
-}
-
-footer {
-    text-align: center;
-    padding-top: 20px;
-    border-top: 2px solid #343a40;
-    font-size: 0.9em;
-}
-
-footer p {
-    margin: 5px 0;
-    color: #6c757d;
-}
